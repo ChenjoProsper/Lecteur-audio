@@ -78,6 +78,11 @@ hr{
     padding: 1% 0% 1% 0%;
 }
 
+#suivant:hover,#precedent:hover,#play-pause:hover {
+    border: 1px solid black;
+    font-size: larger;
+}
+
 .btn {
     background-color: #4CAF50; 
     border: none;
